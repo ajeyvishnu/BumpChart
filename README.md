@@ -27,7 +27,7 @@ The tutorial is divided into 5 steps, starting from beginner level and progressi
 
 1. **Step 1**: Setting up the basic bump chart.
 2. **Step 2**: Customizing axis and labels.
-3. **Step 3**: Adding interactivity with parameters.
+3. **Step 3**: Adding Country icons
 4. **Step 4**: Highlighting specific countries.
 5. **Step 5**: Fine-tuning visual aesthetics.
 
@@ -35,9 +35,9 @@ Refer to the provided PDF document for detailed instructions and takeaways at ea
 
 ## Files
 
-- `dataset.csv`: Fake sales data used in the tutorial.
-- `tableau_file.twbx`: Tableau workbook containing the bump chart visualization.
-- `tutorial_steps.pdf`: PDF document demonstrating the 5 steps with takeaways and screenshots.
+- `Bump Chart.xlsx`: Fake sales data used in the tutorial.
+- `Bump Chart.twbx`: Tableau workbook containing the bump chart visualization.
+- `Bump Chart.pdf`: PDF document demonstrating the 5 steps with takeaways and screenshots.
 
 ## Final Visual
 
